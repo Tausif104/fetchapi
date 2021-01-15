@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "name": "Tausif",
+        "email": "tausifahmed49@gmail.com"
+    },
+    {
+        "id": 2,
+        "name": "Tony Stark",
+        "email": "tonystark@gmail.com"
+    },
+    {
+        "id": 3,
+        "name": "Bruce Wayne",
+        "email": "brucewayne@gmail.com"
+    },
+    {
+        "id": 4,
+        "name": "Steve Rogers",
+        "email": "steverogers@gmail.com"
+    },
+    {
+        "id": 5,
+        "name": "Clark Kent",
+        "email": "clarkkent@gmail.com"
+    }
+]
